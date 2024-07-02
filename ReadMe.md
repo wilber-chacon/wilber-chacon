@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/f9/10/93/f91093b7300c29a32145131a7762b70f.jpg"  />
+  <img height="200" src="https://marketplace.canva.com/EAEe2jblK1o/1/0/1600w/canva-haz-lo-correcto-portada-de-facebook-de-cielo-estrellado-hFP00FcOKW0.jpg"  />
 </div>
 
 # 💫 About Me:
