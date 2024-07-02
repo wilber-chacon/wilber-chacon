@@ -17,7 +17,7 @@ Soy un desarrollador de software Backend apasionado y motivado, buscando nuevos 
 ![](https://github-readme-stats.vercel.app/api?username=wilber-chacon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 <div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=wilber-chacon&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wilber-chacon&theme=tokyonight&hide_border=false" height="200" />
 </div>
 
 
