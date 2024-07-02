@@ -1,5 +1,5 @@
 <div align="center">
-  <img with="100%" src="https://cdn.statically.io/img/timelinecovers.pro/facebook-cover/thumbs/javascript-code-on-screen-facebook-cover.jpg"  />
+  <img height="315" src="https://timelinecovers.pro/facebook-cover/download/pac-man-facebook-cover.jpg"  />
 </div>
 
 # 💫 About Me:
