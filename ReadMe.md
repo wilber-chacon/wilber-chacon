@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://marketplace.canva.com/EAEmUkkx-j4/1/0/1600w/canva-banner-de-linkedin-trabajo-sencillo-RdccdYiYmHI.jpg"  />
+  <img height="280" src="https://marketplace.canva.com/EAEmUkkx-j4/1/0/1600w/canva-banner-de-linkedin-trabajo-sencillo-RdccdYiYmHI.jpg"  />
 </div>
 
 # 💫 About Me:
