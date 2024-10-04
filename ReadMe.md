@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Soy un desarrollador de software Backend apasionado y motivado, buscando nuevos desafíos en los que pueda aplicar mis habilidades o adquirir nuevas. A lo largo de mi formación he adquirido sólidos conocimientos y habilidades en desarrollo de software mediante cursos y proyectos académicos, destacando en colaboración, comunicación efectiva y resolución de problemas.<br><br>Tengo conocimientos en Java, PHP, SQL, JavaScript, HTML, CSS y frameworks como Bootstrap, Laravel, Eloquent ORM, Hibernate y JavaServer Faces. Estoy dispuesto a aprender rápidamente y adaptarme a nuevos entornos. Soy un pensador creativo y analítico, capaz de abordar desafíos con soluciones innovadoras.
+Soy un profesional apasionado y motivado, buscando nuevos desafíos en los que pueda aplicar mis habilidades o adquirir nuevas. A lo largo de mi formación he adquirido sólidos conocimientos y habilidades en desarrollo de software mediante cursos y proyectos académicos, destacando en colaboración, comunicación efectiva y resolución de problemas.<br><br>Tengo conocimientos en Windows server, Ubuntu server, Active Directory, Java, PHP, SQL, JavaScript, HTML, CSS y frameworks como Bootstrap, Laravel, Eloquent ORM, Hibernate y JavaServer Faces, etc. Estoy dispuesto a aprender rápidamente y adaptarme a nuevos entornos. Soy un pensador creativo y analítico, capaz de abordar desafíos con soluciones innovadoras.
 
 
 ## 🌐 Socials:
